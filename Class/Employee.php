@@ -174,7 +174,7 @@ class Employee
 
     echo "
       <section>
-        <h2>Félicitation " .$this->getFirstName(). " " .$this->getLastName(). "</h2>
+        <h2>Bienvenue " .$this->getFirstName(). " " .$this->getLastName(). "</h2>
         <h3>Vos informations personnelles:</h3>
         <ul>
           <li>Email: " .$this->getEmail(). "</li>
